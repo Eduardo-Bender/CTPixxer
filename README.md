@@ -67,3 +67,7 @@ O tutorial segue o mesmo, voce provavelmente só nao vai achar a opcao de "Permi
 
 ### "eu uso godzila giroflex/safari/[navegador_generico]"
 [Se vira](https://github.com/SwingTheVine/Wplace-BlueMarble)
+
+### "aaaa mas a imagem eh muito grande, vai demorar muito..."
+
+*Time will pass anyways*
